@@ -1,5 +1,5 @@
 ## Requirement ##
-Python 3.4.3
+Python 3.4.3  
 pip
 
 ## Installation ##
@@ -15,6 +15,5 @@ pip
 5. Browser goto http://localhost:8080/admin/ for admin panel.
 
 ## References ##
-https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/django/introduction.html
-
+https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/django/introduction.html  
 http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/
